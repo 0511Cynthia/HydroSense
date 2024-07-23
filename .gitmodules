@@ -1,0 +1,6 @@
+[submodule "HydroSense-Backend"]
+	path = HydroSense-Backend
+	url = https://github.com/AlbertoSMC72/Backend_HYDROSENSE.git
+[submodule "HydroSense-Frontend"]
+	path = HydroSense-Frontend
+	url = https://github.com/Norhan15/HydroSense-Frontend.git
